@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/oliviagolf2020/web-final.git/static/css/main.a0259eb6.chunk.css",
+    "main.js": "/oliviagolf2020/web-final.git/static/js/main.d95a669f.chunk.js",
+    "main.js.map": "/oliviagolf2020/web-final.git/static/js/main.d95a669f.chunk.js.map",
+    "runtime-main.js": "/oliviagolf2020/web-final.git/static/js/runtime-main.1039d901.js",
+    "runtime-main.js.map": "/oliviagolf2020/web-final.git/static/js/runtime-main.1039d901.js.map",
+    "static/js/2.31435819.chunk.js": "/oliviagolf2020/web-final.git/static/js/2.31435819.chunk.js",
+    "static/js/2.31435819.chunk.js.map": "/oliviagolf2020/web-final.git/static/js/2.31435819.chunk.js.map",
+    "static/js/3.bdeb3d74.chunk.js": "/oliviagolf2020/web-final.git/static/js/3.bdeb3d74.chunk.js",
+    "static/js/3.bdeb3d74.chunk.js.map": "/oliviagolf2020/web-final.git/static/js/3.bdeb3d74.chunk.js.map",
+    "index.html": "/oliviagolf2020/web-final.git/index.html",
+    "static/css/main.a0259eb6.chunk.css.map": "/oliviagolf2020/web-final.git/static/css/main.a0259eb6.chunk.css.map",
+    "static/js/2.31435819.chunk.js.LICENSE.txt": "/oliviagolf2020/web-final.git/static/js/2.31435819.chunk.js.LICENSE.txt",
+    "static/media/homepage.4a624c2c.svg": "/oliviagolf2020/web-final.git/static/media/homepage.4a624c2c.svg",
+    "static/media/secondpage.5c9ae0a6.svg": "/oliviagolf2020/web-final.git/static/media/secondpage.5c9ae0a6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1039d901.js",
+    "static/js/2.31435819.chunk.js",
+    "static/css/main.a0259eb6.chunk.css",
+    "static/js/main.d95a669f.chunk.js"
+  ]
+}

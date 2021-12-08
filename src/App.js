@@ -1,23 +1,15 @@
 
 import './App.css';
 
+import Home from './home';
+import Olivia from './olivia';
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-    
-        <p>
-          Something
-        </p>
-        <a
-          
-          
-          
-  
-        >
-          
-        </a>
-      </header>
+      <Home/>
+      <Olivia/>    
+      
     </div>
   );
 }
